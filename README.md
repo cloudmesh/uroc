@@ -10,7 +10,7 @@
 
 **Supervisor Qualifications:**
 
-> Dr. Von Laszewskir has a track record supporting undergraduates at
+> Dr. von Laszewski has a track record supporting undergraduates at
 > any organizations he taught. Examples of past successes include an
 > IU award for the best undergraduate project, a Novell developers
 > award, an RIT award for an outstanding undergraduate student
