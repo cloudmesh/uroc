@@ -46,7 +46,7 @@
 > 2. <https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/paper/vonLaszewski-cmburn.md>
 > 3. <https://github.com/cloudmesh/cloudmesh-pi-cluster>
 > 4. We have more information, but this gets you started
-> 5. you can immediately engage with Gregor at <laszewski@gmail.com>
+> 5. you can immediately engage with Gregor at laszewski@gmail.com
 
 **Prerequisites:**
 
@@ -66,4 +66,4 @@
 > minimum of five Raspberry Pis, one or more network hubs, cables,
 > SD-cards so the project can be performed at the student's residence.
 
-![](https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg)
+![](https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg | width=25)
