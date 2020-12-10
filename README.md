@@ -1,8 +1,9 @@
-Project: Raspberry Pi cluster for Data Science and Machine Learning
+# UROC Project: Raspberry Pi cluster for Data Science and Machine Learning
 
-Supervisor: Gregor von Laszewski, Ph.D. https://laszewski.github.io/, gvonlasz@iu.edu, laszewski@gmail.com
+## Supervisor: Gregor von Laszewski, Ph.D. https://laszewski.github.io/, gvonlasz@iu.edu, laszewski@gmail.com
 
-Supervisor Qualifications: Dr. Von Laszewskir has a track record supporting undergraduates at any in organizations he taught. Examples for past successes include an IU award for the best undergraduate project, a Novell developers award, an RIT award for an outstanding undergraduate student research project, the Department of Energy outstanding mentor award, and IU staff award.
+Supervisor Qualifications: 
+  Dr. Von Laszewskir has a track record supporting undergraduates at any in organizations he taught. Examples for past successes include an IU award for the best undergraduate project, a Novell developers award, an RIT award for an outstanding undergraduate student research project, the Department of Energy outstanding mentor award, and IU staff award.
 
 Research: In this project, we will be exploring the use of Raspberry Pis for Data Science. Each student will have a minimum of five Raspberry PIs to build a research cluster. The students will explore setting up a Kubernetes, Hadoop, Spark, Kubernetes, or compute services using REST in a reproducible fashion. An application can be chosen based on the students' interest in data science. Examples of applications would be the image detection of features recorded on an autonomous robot boat or the analysis of COVID-19 time series data. If successful, the students can build a cluster with more than 100 Raspberry Pi's at a Lab and test their application on it for benchmarking comparisons.
 
