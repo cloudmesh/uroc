@@ -9,7 +9,7 @@
 
 |     |     |
 | --- | --- |
-| <img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg" width="40%" /> | <img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/network.png" width="40%" /> |
+| <img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg" /> | <img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/network.png" /> |
 | **Fig 1:** Raspberry Pi cluster Prototype | **Fig 2:** Configuration we will setup with our exiting easy to use tools |
 
 **Supervisor Qualifications:**
