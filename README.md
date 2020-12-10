@@ -66,4 +66,6 @@
 > minimum of five Raspberry Pis, one or more network hubs, cables,
 > SD-cards so the project can be performed at the student's residence.
 
-![](https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg | width=25)
+![](| width=25)
+
+<img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg" data-canonical-src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg " width="200" />
