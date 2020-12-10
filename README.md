@@ -1,6 +1,6 @@
 # UROC Project: Raspberry Pi cluster for Data Science and Machine Learning
 
-## Supervisor: Gregor von Laszewski, Ph.D. https://laszewski.github.io/, gvonlasz@iu.edu, laszewski@gmail.com
+Supervisor: Gregor von Laszewski, Ph.D. https://laszewski.github.io/, gvonlasz@iu.edu, laszewski@gmail.com
 
 Supervisor Qualifications: 
   Dr. Von Laszewskir has a track record supporting undergraduates at any in organizations he taught. Examples for past successes include an IU award for the best undergraduate project, a Novell developers award, an RIT award for an outstanding undergraduate student research project, the Department of Energy outstanding mentor award, and IU staff award.
