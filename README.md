@@ -49,6 +49,10 @@
 > 4. We have more information, but this gets you started
 > 5. you can immediately engage with Gregor at laszewski@gmail.com
 
+**Results from Previous UROCs:**
+
+1. <https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf>
+
 **Prerequisites:**
 
 > 1. Knowledge of Python is required. We will use elementary Python,
