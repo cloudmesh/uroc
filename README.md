@@ -7,9 +7,10 @@
 > Ph.D. https://laszewski.github.io/
 > gvonlasz@iu.edu, laszewski@gmail.com
 
---- | ---
-<img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg" width="40%" /> | <img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/network.png" width="40%" />
-**Fig 1:** Raspberry Pi cluster Prototype | **Fig 2:** Configuration we will setup with our exiting easy to use tools
+|     |     |
+| --- | --- |
+| <img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg" width="40%" /> | <img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/network.png" width="40%" /> |
+| **Fig 1:** Raspberry Pi cluster Prototype | **Fig 2:** Configuration we will setup with our exiting easy to use tools |
 
 **Supervisor Qualifications:**
 
