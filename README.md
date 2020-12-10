@@ -8,7 +8,7 @@
 > gvonlasz@iu.edu, laszewski@gmail.com
 
 
-**Supervisor Qualifications:**
+**Supervisor Qualifications**
 
 > Dr. von Laszewski has a track record supporting undergraduates at
 > any organizations he taught. Examples of past successes include an
@@ -17,7 +17,7 @@
 > research project, the Department of Energy outstanding mentor award,
 > and IU staff award.
 
-**Research:** 
+**Research** 
 
 > In this project, we will be exploring the use of Raspberry Pis for
 > Data Science. Each student will have a minimum of five Raspberry PIs
@@ -30,7 +30,7 @@
 > students can build a cluster with more than 100 Raspberry Pi's at a
 > Lab and test their application for benchmarking comparisons.
 
-**Deliverables:**
+**Deliverables**
 
 > 1. Successful creation of a raspberry pi cluster with the newest
 >    software for the PI
@@ -41,7 +41,7 @@
 > 4. Weekly updates
 > 5. Having fun while doing research
 
-**Links:**
+**Links**
 
 > 1. <https://github.com/cloudmesh/cloudmesh-pi-burn>
 > 2. <https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/paper/vonLaszewski-cmburn.md>
@@ -49,13 +49,13 @@
 > 4. We have more information, but this gets you started
 > 5. you can immediately engage with Gregor at laszewski@gmail.com
 
-**Results from Previous UROCs:**
+**Results from Previous UROCs**
 
 |    |    |
 | ---- | ---- | 
 | [<img src="images/paper.png" width="25% "/>  <br> Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf) | [<img src="images/uroc-poster-2020.png" width="25% "/>  <br> Poster](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-uroc-2020.pdf) |
 
-**Prerequisites:**
+**Prerequisites**
 
 > 1. Knowledge of Python is required. We will use elementary Python,
 >    including variables, conditions, loops, functions, classes,
@@ -66,7 +66,7 @@
 >    you do not know it, you will be obtaining it as part of the
 >    research project.
 
-**Equipment:**
+**Equipment**
 
 > This project will follow the IU regulations on COVID-19 social
 > distancing for Labs. Furthermore, The student will be given a
