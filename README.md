@@ -54,7 +54,7 @@
 
 [<img src="images/paper.png" width="10% "/>  <br> Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf) 
 
-[<img src="images/paper.png" width="10% "/>  <br> Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-uroc-2020.pdf) 
+[<img src="images/uroc-poster-2020.png" width="10% "/>  <br> Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-uroc-2020.pdf) 
 
 **Prerequisites:**
 
