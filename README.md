@@ -68,4 +68,4 @@
 
 ![](| width=25)
 
-<img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg" data-canonical-src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg " width="200" />
+<img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg" data-canonical-src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/pi_clusters_case.jpg " width="20%" />
