@@ -53,7 +53,7 @@
 
 | --- | --- |
 | | |
-| <https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf> | Research Paper |
+| ![](images/paper.png)  | [Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf) |
 
 **Prerequisites:**
 
