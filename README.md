@@ -54,6 +54,8 @@
 
 [<img src="images/paper.png" width="10% "/>  <br> Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf) 
 
+[<img src="images/paper.png" width="10% "/>  <br> Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-uroc-2020.pdf) 
+
 **Prerequisites:**
 
 > 1. Knowledge of Python is required. We will use elementary Python,
