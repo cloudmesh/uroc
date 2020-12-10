@@ -51,7 +51,9 @@
 
 **Results from Previous UROCs:**
 
-1. <https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf>
+| --- | --- |
+| | |
+| <https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf> | Research Paper |
 
 **Prerequisites:**
 
