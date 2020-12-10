@@ -51,9 +51,8 @@
 
 **Results from Previous UROCs:**
 
-|     |     |
-| --- | --- |
-| <img src="images/paper.png" width="10% "/>  | [Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf) |
+
+<img src="images/paper.png" width="10% "/>  [Research Paper](https://github.com/laszewski/laszewski.github.io/raw/master/papers/vonLaszewski-openapi.pdf) |
 
 **Prerequisites:**
 
