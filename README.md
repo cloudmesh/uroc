@@ -70,4 +70,6 @@
 
 **Fig 1:** Raspberry Pi cluster Prototype
 
-<img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/network.png" data-canonical-src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/network.png width="40%" />
+<img src="https://github.com/cloudmesh/cloudmesh-pi-burn/blob/main/images/network.png" width="40%" />
+
+**Fig 2:** Configuration we will setup with our exiting easy to use tools
